@@ -3,3 +3,4 @@
 2. belajar javascript dari youtube
 3. belajar phyton
   - dari udemy
+4. belajar framwork java script
