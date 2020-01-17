@@ -1,4 +1,6 @@
 1. belajar github belajar dari youutbe
-- youtub udemy
+ - youtube andika
 2. belajar javascript dari youtube
 3. belajar phyton
+  - dari udemy
+4. belajar framwork java script
